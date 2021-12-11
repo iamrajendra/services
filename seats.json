@@ -1,0 +1,218 @@
+[
+ {
+   "s.no": 1,
+   "state": "Andhra Pradesh",
+   "seats": 25,
+   "sw": true
+ },
+ {
+   "s.no": 2,
+   "state": "Arunachal Pradesh",
+   "seats": 2,
+   "sw": true
+ },
+ {
+   "s.no": 3,
+   "state": "Assam",
+   "seats": 14,
+   "sw": true
+ },
+ {
+   "s.no": 4,
+   "state": "Bihar",
+   "seats": 40,
+   "sw": true
+ },
+ {
+   "s.no": 5,
+   "state": "Chhattisgarh",
+   "seats": 11,
+   "sw": true
+ },
+ {
+   "s.no": 6,
+   "state": "Goa",
+   "seats": 2,
+   "sw": true
+ },
+ {
+   "s.no": 7,
+   "state": "Gujarat",
+   "seats": 26,
+   "sw": true
+ },
+ {
+   "s.no": 8,
+   "state": "Haryana",
+   "seats": 10,
+   "sw": true
+ },
+ {
+   "s.no": 9,
+   "state": "Himachal Pradesh",
+   "seats": 4,
+   "sw": true
+ },
+ {
+   "s.no": 10,
+   "state": "Jharkhand",
+   "seats": 14,
+   "sw": true
+ },
+ {
+   "s.no": 11,
+   "state": "Karnataka",
+   "seats": 28,
+   "sw": true
+ },
+ {
+   "s.no": 12,
+   "state": "Kerala",
+   "seats": 20,
+   "sw": true
+ },
+ {
+   "s.no": 13,
+   "state": "Madhya Pradesh",
+   "seats": 29,
+   "sw": true
+ },
+ {
+   "s.no": 14,
+   "state": "Maharashtra",
+   "seats": 48,
+   "sw": true
+ },
+ {
+   "s.no": 15,
+   "state": "Manipur",
+   "seats": 2,
+   "sw": true
+ },
+ {
+   "s.no": 16,
+   "state": "Meghalaya",
+   "seats": 2,
+   "sw": true
+ },
+ {
+   "s.no": 17,
+   "state": "Mizoram",
+   "seats": 1,
+   "sw": true
+ },
+ {
+   "s.no": 18,
+   "state": "Nagaland",
+   "seats": 1,
+   "sw": true
+ },
+ {
+   "s.no": 19,
+   "state": "Odisha",
+   "seats": 21,
+   "sw": true
+ },
+ {
+   "s.no": 20,
+   "state": "Punjab",
+   "seats": 13,
+   "sw": true
+ },
+ {
+   "s.no": 21,
+   "state": "Rajasthan",
+   "seats": 25,
+   "sw": true
+ },
+ {
+   "s.no": 22,
+   "state": "Sikkim",
+   "seats": 1,
+   "sw": true
+ },
+ {
+   "s.no": 23,
+   "state": "Tamil Nadu",
+   "seats": 39,
+   "sw": true
+ },
+ {
+   "s.no": 24,
+   "state": "Telangana",
+   "seats": 17,
+   "sw": true
+ },
+ {
+   "s.no": 25,
+   "state": "Tripura",
+   "seats": 2,
+   "sw": true
+ },
+ {
+   "s.no": 26,
+   "state": "Uttar Pradesh",
+   "seats": 80,
+   "sw": true
+ },
+ {
+   "s.no": 27,
+   "state": "Uttarakhand",
+   "seats": 5,
+   "sw": true
+ },
+ {
+   "s.no": 28,
+   "state": "West Bengal",
+   "seats": 41,
+   "sw": true
+ },
+ {
+   "s.no": 29,
+   "state": "Andaman and Nicobar Islands",
+   "seats": 1,
+   "sw": false
+ },
+ {
+   "s.no": 30,
+   "state": "Chandigarh",
+   "seats": 1,
+   "sw": false
+ },
+ {
+   "s.no": 31,
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "seats": 2,
+   "sw": false
+ },
+ {
+   "s.no": 32,
+   "state": "Jammu and Kashmir",
+   "seats": 5,
+   "sw": false
+ },
+ {
+   "s.no": 33,
+   "state": "Ladakh",
+   "seats": 1,
+   "sw": false
+ },
+ {
+   "s.no": 34,
+   "state": "Lakshadweep",
+   "seats": 1,
+   "sw": false
+ },
+ {
+   "s.no": 35,
+   "state": "NCT of Delhi",
+   "seats": 7,
+   "sw": false
+ },
+ {
+   "s.no": 36,
+   "state": "Puducherry",
+   "seats": 1,
+   "sw": false
+ }
+]
